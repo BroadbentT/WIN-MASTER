@@ -2,11 +2,3 @@
 
 **TEMPORARY HOLDING PAGE - WIN-MASTER HAS NOW MOVED TO ROGUE-AGENT**
 https://github.com/BroadbentT/ROGUE-AGENT
-
-<p align="center">
-  <img src="https://github.com/BroadbentT/WIN-MASTER/blob/main/cdcover.png">
-</p>
-
-
-
-
